@@ -25,7 +25,7 @@ npm init -y   // Init npm, and defult yes
 npm install typescript -g --save-dev  // Install ts
 npm install express body-parser --save-dev  //Install express and body-parse 
 npm install @types/express --save-dev  
-npx tsc -init   // add ts config file
+npx tsc -init   //add tsc command and add ts config file
 ```
 <br />
 
@@ -194,4 +194,5 @@ app.use("/", UserControllers);
 ```
 
 
+12 Now, you can post request and get Response by postmen.
 

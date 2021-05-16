@@ -1,13 +1,23 @@
 {
-  "name": "project-name",
+  "name": "nodejs-beginner1",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a nodejs project for beginners, It contains the function of adding, deleting, update and query.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node-dev src/index.ts"
   },
-  "keywords": [],
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Typescript",
+    "TS",
+    "mongodb",
+    "mongoose",
+    "ES5",
+    "Javasvript",
+    "Backend"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
